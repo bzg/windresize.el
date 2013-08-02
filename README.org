@@ -1,5 +1,3 @@
-#+TITLE: windresize.el
-
 This mode lets you edit the window configuration interactively just by
 using the keyboard.
 
